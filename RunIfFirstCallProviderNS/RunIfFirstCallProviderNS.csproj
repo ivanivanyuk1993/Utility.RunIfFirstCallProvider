@@ -6,4 +6,8 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\..\SpinLockUtil\SpinLockUtilNS\SpinLockUtilNS.csproj" />
+    </ItemGroup>
+
 </Project>
